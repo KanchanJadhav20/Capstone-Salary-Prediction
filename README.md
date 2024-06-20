@@ -1,3 +1,8 @@
+
+**** Salary-Prediction Dataset ****
+
+
+
 * Problem Stement :
 The goal might be to build a machine learning model to predict whether an individual's salary is above or below a certain threshold based on the given features.
 
